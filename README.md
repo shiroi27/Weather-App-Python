@@ -61,14 +61,13 @@ cd weather-app-python
 
 I’m a self-taught Python developer, building 100+ projects as part of my journey. This weather app was built on Day 2, combining API logic, design, and GUI skills into a real project.
 🧠 I’m learning by doing — and building in public.
-
+ 
 ⸻
 
-📢 Connect with Me • 🐍 Instagram: @shiroi_27 • 💼 GitHub: shiroi27 • 🐦 Twitter: @shiroi_27
 📷 Follow my journey on :
-Instagram → @_shiroi_27_
-🐦 Twitter → @_shiroi_27_
-🔗 LinkedIn → @shiroi27
+	• 🐍 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
+        • 💼 [GitHub: shiroi27](https://github.com/shiroi27)
+        • 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
 
 ⸻
 
