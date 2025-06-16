@@ -1,8 +1,9 @@
 
 ## 📸 Preview
-![Weather App Screenshot](weather-preview.jpeg)
+![Weather App Screenshot](https://github.com/user-attachments/assets/43b27e46-579b-4259-b289-20af07c84c18)
 
 ---
+
 # 🌦️ Custom Python Weather App
 
 A fullscreen, real-time weather forecast application built using **Python**, **Tkinter**, and the **OpenWeather API** — fully styled with custom UI and icons.
