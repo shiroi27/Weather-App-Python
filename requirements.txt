@@ -1,0 +1,15 @@
+# pip freeze > requirements.txt
+certifi==2025.6.15
+cffi==1.17.1
+charset-normalizer==3.4.2
+geographiclib==2.0
+geopy==2.4.1
+h3==4.2.2
+idna==3.10
+numpy==2.3.0
+pillow==11.2.1
+pycparser==2.22
+pytz==2025.2
+requests==2.32.4
+timezonefinder==6.5.9
+urllib3==2.4.0
