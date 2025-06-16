@@ -1,6 +1,6 @@
 
 ## 📸 Preview
-![Weather App Screenshot](weather-preview.jpg)
+![Weather App Screenshot](weather-preview.jpeg)
 
 ---
 # 🌦️ Custom Python Weather App
