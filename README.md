@@ -59,7 +59,7 @@ cd weather-app-python
 
 👨‍💻 About Me
 
-I’m a self-taught Python developer, building 100+ projects as part of my journey. This weather app was built on Day 2, combining API logic, design, and GUI skills into a real project.
+I’m a self-taught Python developer, building 100+ projects as part of my journey. 🚀 This weather app was built on Day 2, combining API logic, design, and GUI skills into a real project.
 🧠 I’m learning by doing — and building in public.
  
 ⸻
