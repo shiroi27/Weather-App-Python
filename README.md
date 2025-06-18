@@ -41,7 +41,7 @@ cd weather-app-python
 ```bash
    pip install -r requirements.txt
 ```
-4. Run the app:
+3. Run the app:
 ```bash
    python Weather_app.py
 ```
