@@ -32,16 +32,20 @@ A fullscreen, real-time weather forecast application built using **Python**, **T
 
 ## 📦 How to Run
 
-1. Clone the repository:
+1. Clone the repository :
+   
 ```bash
 git clone https://github.com/shiroi27/weather-app-python.git
 cd weather-app-python
 ```
-2.	Install required packages:
+
+2. Install required packages :
+   
 ```bash
    pip install -r requirements.txt
 ```
-3. Run the app:
+3. Run the app :
+ 
 ```bash
    python Weather_app.py
 ```
@@ -49,7 +53,7 @@ cd weather-app-python
 
 ⸻
 
-🔮 Upcoming Features
+## 🔮 Upcoming Features
 	•	Keyboard input support
 	•	Toggle between °C / °F
 	•	Dark mode option
@@ -57,14 +61,14 @@ cd weather-app-python
 
 ⸻
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 I’m a self-taught Python developer, building 100+ projects as part of my journey. 🚀 This weather app was built on Day 2, combining API logic, design, and GUI skills into a real project.
 🧠 I’m learning by doing — and building in public.
  
 ⸻
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 I’m sharing my #100DaysOfCode journey with real-world Python projects.  
 Let’s connect and grow together! 🌱✨
@@ -74,12 +78,12 @@ Let’s connect and grow together! 🌱✨
 
 ⸻
 
-📜 License
+## 📜 License
 
 This project is open-source and free to use under the MIT License.
 
 ⸻
 
-📌 Tags
+## 📌 Tags
 
 #Python #Tkinter #WeatherApp #BuildInPublic #SelfTaughtDev #100DaysOfCode #MadeWithPython #100DaysOfCode
