@@ -54,10 +54,10 @@ cd weather-app-python
 ⸻
 
 ## 🔮 Upcoming Features
-	•	Keyboard input support
-	•	Toggle between °C / °F
-	•	Dark mode option
-	•	Scientific view
+- Keyboard input support
+- Toggle between °C / °F
+- Dark mode option
+- Scientific view
 
 ⸻
 
